@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2018"
 
 [dependencies]
-anyhow = "1.0.98"
+anyhow = "1.0.100"
 paw = "1.0.0"
 structopt = { version = "0.3.26", features = [ "paw" ] }
